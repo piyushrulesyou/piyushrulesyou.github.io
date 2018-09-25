@@ -1,0 +1,24 @@
+body{
+			margin:0;
+			overflow: hidden;
+			font-size:0;
+		}
+		canvas{
+			background: black;
+			width: 110vw;
+			height: 100vh;
+		}
+		
+p{
+  position: fixed;
+  left: 0;
+  bottom:5px;
+  color: #fff;
+  z-index:10;
+  font-size:16px;
+  font-family: Helvetica, Verdana, sans-serif;
+  opacity:0.5;
+  width: 100%;
+  text-align: center;
+  margin: 0;
+}
